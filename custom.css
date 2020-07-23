@@ -1,0 +1,42 @@
+#back{
+    vertical-align: middle;
+    background-image: url(big_image_2.jpg);
+    min-height: 750px;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: #285e8e; 
+    border-width: 2px;
+}
+#rightext{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2;
+    color: gray;
+}
+#navozbot{
+    padding-top: 250px;
+}
+.backgrounds{
+    background-color: #f8f9fa !important;
+}
+.mycustom {
+    position: relative;
+}
+.mycustom input[type=text] {
+    width: 100%;
+    padding-right: 123px;
+}
+.mycustom .input-group-prepend {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    bottom: 4px;z-index:9;
+}
+.h6{
+    font-size: 12px;
+}
